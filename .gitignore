@@ -1,0 +1,13 @@
+# pyc
+**/*.pyc
+
+# virtualenv
+env
+
+# build
+build
+dist
+booru_barrel.egg-info
+
+# vscode
+.vscode

@@ -1,0 +1,25 @@
+{
+    "global": {
+        "default_source": "danbooru.donmai.us",
+        "max_height": null,
+        "max_width": null
+    },
+
+    "sources": {
+        "danbooru.donmai.us": {
+            "url": "http://danbooru.donmai.us/",
+            "type": "danbooru_xml",
+            "params" : {
+                "login": null,
+                "api_key": null
+            }
+        },
+        "gelbooru.com": {
+            "url": "https://gelbooru.com/",
+            "type": "gelbooru_xml",
+            "params": {
+                "api_key": null
+            }
+        }
+    }
+}
